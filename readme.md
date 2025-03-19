@@ -1,4 +1,4 @@
 # Node.js Crash Course
 
-nodemon 
-uuid to generate id for user
+1. nodemon 
+2. uuid to generate id for user
