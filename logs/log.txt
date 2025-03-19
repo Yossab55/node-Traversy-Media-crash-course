@@ -1,0 +1,7 @@
+Id: 2e2ca06c-3f67-4b58-bb12-f59a9a547cc9 & Message Is: hello world
+Id: 04f51e5a-b6b9-4d07-b444-643c60e3e20b & Message Is: Hi
+Id: 9c5b9f57-720c-4269-af91-a09ed5f4cfc1 & Message Is: explain: logger file {id, message} is the data in this file
+Id: ff15b32f-ceed-4bf3-b632-ce47ba1c2f3e & Message Is: hello world
+Id: c76e85a4-7556-4ff1-bd78-8b4f57e40075 & Message Is: Hi
+Id: e4b1b996-9096-4e1c-bcdb-4192f44ac949 & Message Is: explain: logger file {id, message} is the data in this file
+Id: 7b713f99-6811-43b2-8c63-ee15e965e6d6 & Message Is: new log is here

@@ -1,0 +1,2 @@
+hello world form fs_demo by node .js
+hello from append
